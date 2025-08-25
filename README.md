@@ -77,20 +77,11 @@ This project demonstrates API testing on the **Restful Booker API**, covering al
 
 ---
 
-## 🔒 Security
-
-- Validate authentication & authorization
-- Ensure sensitive data (tokens, IDs) are not exposed
-- Perform negative testing with invalid inputs
-
----
-
 ## 🚀 Future Enhancements
 
 - Automation framework with **REST Assured**
 - CI/CD integration with **Jenkins/GitHub Actions**
-- Extended performance testing with **JMeter**
 
----
+----
 
 📌 This project helps in learning **API Testing**, **Postman Collections**, **Authentication Handling**, and **REST Assured Automation**.
